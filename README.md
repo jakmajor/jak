@@ -2,9 +2,11 @@
 
 I'm a 👩🏼‍💻 living in san diego, ca. 🌞 
 
-i like 
+Things I enjoy
+
 - code 💻
 - cats 🐱
 - surfing 🌊
 - coffee ☕️
 - & solving problems ✨
+
