@@ -1,8 +1,8 @@
 ### hiiii world 
 
-I'm a 👩🏼‍💻 living in san diego, ca. 🌞 
+i'm a 👩🏼‍💻 living in san diego, ca. 🌞 
 
-Things I enjoy
+big fan of:
 
 - code 💻
 - cats 🐱
