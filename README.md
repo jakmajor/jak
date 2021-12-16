@@ -1,6 +1,6 @@
-### hellooooo world 🌎
+### hello world 👋🏻🌎
 
-i'm a 👩🏼‍💻 living in san diego, ca. 🌞 
+i'm a software engineer living in san diego, ca. 🌞 
 
 big fan of:
 
