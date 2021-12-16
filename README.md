@@ -1,4 +1,4 @@
-### hiiii world 
+### hellooooo world 🌎
 
 i'm a 👩🏼‍💻 living in san diego, ca. 🌞 
 
