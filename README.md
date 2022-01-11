@@ -7,6 +7,5 @@ big fan of:
 - code 💻
 - cats 🐱
 - surfing 🌊
-- coffee ☕️
 - & solving problems ✨
 
