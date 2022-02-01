@@ -6,6 +6,6 @@ big fan of:
 
 - code 💻
 - cats 🐱
-- surfing 🌊
+- matcha 🍵
 - & solving problems ✨
 
